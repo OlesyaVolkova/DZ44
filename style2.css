@@ -1,0 +1,29 @@
+body {
+    background-color: #F5F5F5;
+}
+
+li {
+    padding: 10px;
+    margin-bottom: 5px;
+    list-style-type: none;
+}
+
+span {
+    margin: 10px;
+}
+
+.wrapper {
+    width: 1170px;  
+}
+
+.even {
+    background-color: #A5CCDB;
+}
+
+.odd {
+     background-color: #ADD9E6;
+}
+
+.unchecked {
+    background-color:  #E2E2E2;
+}
